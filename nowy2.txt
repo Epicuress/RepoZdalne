@@ -1,1 +1,3 @@
-Zmiana nastąpiła tutaj lokalnie.
+
+Zmiana nastąpiła tutaj zdalnie.
+
